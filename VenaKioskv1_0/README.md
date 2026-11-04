@@ -87,7 +87,7 @@ Smoke na urządzeniu (Futro) jest w [`DEVELOPMENT.md`](DEVELOPMENT.md) — Windo
 
 ## Git
 
-Remote: [github.com/AdamAdamnomnom/VenaPilotVI](https://github.com/AdamAdamnomnom/VenaPilotVI), gałąź `main`.
+Remote: [github.com/AdamAdamnomnom/VenaV-speaker](https://github.com/AdamAdamnomnom/VenaV-speaker), gałąź `main`.
 
 - **`v1.2-baseline`** — tag na pierwszym commicie: sam runtime (`VenaKioskv1_2.py`, watchdog, stare pliki jeszcze obok siebie). Służy do odzyskania aplikacji sprzed porządku dokumentacji.
 - Commity **po** tym tagu dodają docs/archive; **nie zmieniają** `VenaKioskv1_2.py` ani `vena-watchdog.sh`, dopóki osobny etap tego nie zrobi.
